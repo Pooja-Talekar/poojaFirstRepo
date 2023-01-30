@@ -47,6 +47,7 @@ public class Grossary
 		
 		System.out.println("*******************************");
 		System.out.println("Total is :"+Add);
+		
 		System.out.println("*******************************");
 		
 		
